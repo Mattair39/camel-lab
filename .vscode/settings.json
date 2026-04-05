@@ -1,0 +1,11 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "files.exclude": {
+        "**/*.class": true,
+        "**/lib/": true
+    },
+    "search.exclude": {
+        "**/*.class": true,
+        "**/lib/": true
+    }
+}
