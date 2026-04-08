@@ -1,0 +1,17 @@
+# Compiled Java class files
+*.class
+
+# Maven target directory
+target/
+
+# Logs generados en runtime
+logs/
+
+# Output y archivos procesados
+output/
+archived/
+
+# IDE
+.vscode/
+*.iml
+.idea/

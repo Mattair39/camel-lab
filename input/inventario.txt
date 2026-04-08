@@ -1,0 +1,4 @@
+id,producto,stock,costo
+1,Laptop,10,800
+2,Impresora,4,120
+3,Auriculares,7,35
